@@ -1,0 +1,8 @@
+figure();
+hold on;
+plot(MVris,MVret,'x-k');
+plot(EGPris,EGPret,'*-m');
+%plot(MVS01ris,MVS01ret,'+-b');
+%plot(MVS10ris,MVS10ret,'o-r');
+%plot(MVS50ris,MVS50ret,'v-g');
+hold off;
